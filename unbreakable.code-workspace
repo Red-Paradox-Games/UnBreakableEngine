@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "eons_of_valoris",
+			"path": "../eons_of_valoris"
+		},
+		{
+			"name": "tower_of_embers",
+			"path": "../tower_of_embers"
+		},
+		{
+			"name": ".vmodules",
+			"path": "../../../Users/Jeff/.vmodules"
+		}
+	],
+	"settings": {}
+}
