@@ -1,7 +1,7 @@
 Module {
-	name: 'unbreakable'
-	description: 'Simple No-GUI 2D Game Engine that never introduces breaking changes.'
+	name: 'UnBreakable Engine'
+	description: 'Simple and incremental 2D Game Engine as a module.'
 	version: '1.0.0'
 	license: 'MIT'
-	dependencies: []
+	dependencies: ['sdl']
 }
