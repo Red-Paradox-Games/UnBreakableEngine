@@ -1,5 +1,5 @@
 Module {
-	name: 'UnBreakable Engine'
+	name: 'Unbreakable Engine'
 	description: 'Simple and incremental 2D Game Engine as a module.'
 	version: '1.0.0'
 	license: 'MIT'

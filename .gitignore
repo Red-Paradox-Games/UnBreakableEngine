@@ -1,6 +1,7 @@
 # Binaries for programs and plugins
 main
 unbreakable
+docs
 *.exe
 *.exe~
 *.so
