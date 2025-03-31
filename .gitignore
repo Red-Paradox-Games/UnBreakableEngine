@@ -26,3 +26,4 @@ bin/
 
 *.code-workspace
 .editorconfig
+layout

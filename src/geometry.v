@@ -1,0 +1,4 @@
+module unbreakable
+
+struct Geometry {
+}
